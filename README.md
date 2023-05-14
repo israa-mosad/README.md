@@ -1,4 +1,7 @@
 ### Hi there 👋
+### ------------------------------------------------------------------------------------
+### Cloud Architecture Trainee who has a passion for learning new challenges.
+
 - 🔭 I’m currently working on devops projects
 - 🌱 I’m currently learning devops
 - 👯 I’m looking to collaborate on 30 days of code
