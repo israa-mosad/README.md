@@ -11,10 +11,4 @@ Cloud Architecture Trainee who has a passion for learning new challenges.
 - 📫 How to reach me: https://www.linkedin.com/in/israa-mosaad/
 - 😄 Pronouns: Isra
 - ⚡ Fun fact: I love anime films
-<!--
-**israa-mosad/israa-mosad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
- Here are some ideas to get you started:
-
-
--->
