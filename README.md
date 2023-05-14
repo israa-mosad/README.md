@@ -1,6 +1,7 @@
 ### Hi there 👋
-### -----------------------------------------------------------------------------------------------------------------------------------------------------------------____________________________________________________________________________________________________
-### Cloud Architecture Trainee who has a passion for learning new challenges.
+------------------------------------------------------------------------
+Cloud Architecture Trainee who has a passion for learning new challenges.
+---------------------
 
 - 🔭 I’m currently working on devops projects
 - 🌱 I’m currently learning devops
